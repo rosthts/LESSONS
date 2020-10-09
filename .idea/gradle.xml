@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -10,9 +11,23 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/P0061_Layouts" />
+            <option value="$PROJECT_DIR$/P0081_ViewById" />
+            <option value="$PROJECT_DIR$/P0091_OnClickButtons" />
+            <option value="$PROJECT_DIR$/P0101_Listener" />
+            <option value="$PROJECT_DIR$/P0102_ActivityListener" />
+            <option value="$PROJECT_DIR$/P0111_ResValues" />
+            <option value="$PROJECT_DIR$/P0121_LogAndMess" />
+            <option value="$PROJECT_DIR$/P0131_MenuSimple" />
+            <option value="$PROJECT_DIR$/P0141_MenuAdv" />
+            <option value="$PROJECT_DIR$/P0151_ContextMenu" />
+            <option value="$PROJECT_DIR$/P0161_DynamicLayout" />
+            <option value="$PROJECT_DIR$/P0171_DynamicLayout2" />
+            <option value="$PROJECT_DIR$/P0181_DynamicLayout3" />
+            <option value="$PROJECT_DIR$/P0191_SimpleCalculator" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p00041basicviews" />
             <option value="$PROJECT_DIR$/p0031firstproject" />
+            <option value="$PROJECT_DIR$/p0072_layoutprop" />
             <option value="$PROJECT_DIR$/p051layoutfiles" />
           </set>
         </option>
