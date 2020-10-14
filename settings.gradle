@@ -1,3 +1,6 @@
+include ':P0341_SimpleSQLite'
+include ':P0331_SharedPreferences'
+include ':P0201_SimpleAnimation'
 rootProject.name='Android lessons'
 include ':app'
 include ':p0031firstproject'
